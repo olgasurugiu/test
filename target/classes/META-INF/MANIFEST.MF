@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-webflux
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Olgutza
+Implementation-Vendor-Id: com.reactive
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-webflux
+Created-By: Maven Integration for Eclipse
+
